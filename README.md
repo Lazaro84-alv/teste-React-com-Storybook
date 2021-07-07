@@ -1,4 +1,10 @@
+# Aceleração Global Dev#11 Avanade - React
+
+## Workshop 3 - Elevando o nível dos seus components ReactJs com Styled Components (CSS-in-JS)
+
 # Getting Started with Create React App
+
+Ministrado por: Maycon Batista
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
